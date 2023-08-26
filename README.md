@@ -1,4 +1,4 @@
-# Capstone Project
+# Salifort Motors Project
 
 ## Overview
 Salifort Motors seeks to improve employee retention.
